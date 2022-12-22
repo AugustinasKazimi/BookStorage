@@ -1,0 +1,11 @@
+
+o
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ý¦Œ
+o
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾Ý¦Œ
+v
+java:S14889"`Immediately return this expression instead of assigning it to the temporary variable "allBooks".(–¨ŸË
+]
+java:S1128"@Remove this unused import 'org.springframework.beans.BeanUtils'.(ŠðÄÜ8´Àð¦Ó0
+R
+java:S1128"0Remove this unused import 'java.awt.print.Book'.(ÕÓÄßúÿÿÿÿ8ÃÀð¦Ó0
